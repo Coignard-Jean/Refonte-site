@@ -1,0 +1,811 @@
+# Translation of Themes - EightyDays Lite in Vietnamese
+# This file is distributed under the same license as the Themes - EightyDays Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-05 02:16:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - EightyDays Lite\n"
+
+#. Description of the theme
+msgid "EightyDays is a beautiful WordPress travel theme for travel blogs or magazines. EightyDays has a modern, clean and elegant look and lots of customization for bloggers. Built on the latest technology of WordPress, EightyDays is lightweight, fast and optimized for all mobile phones."
+msgstr "EightyDays là một chủ đề du lịch WordPress tuyệt đẹp cho các blog hoặc tạp chí du lịch. EightyDays có một cái nhìn hiện đại, sạch sẽ và thanh lịch và rất nhiều tùy biến cho các blogger. Được xây dựng trên công nghệ mới nhất của WordPress, EightyDays nhẹ, nhanh và được tối ưu hóa cho tất cả các điện thoại di động."
+
+#. Theme Name of the theme
+msgid "EightyDays Lite"
+msgstr "EightyDays Lite"
+
+#: inc/dashboard/sections/tabs.php:12
+msgid "Free vs. PRO"
+msgstr "Miễn phí so với PRO"
+
+#: inc/dashboard/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/dashboard/sections/pro.php:86
+msgid "You will benefit of our full support for any issues you have with the theme."
+msgstr "Bạn sẽ được hưởng lợi từ sự hỗ trợ đầy đủ của chúng tôi đối với bất kỳ vấn đề nào bạn có với chủ đề."
+
+#: inc/dashboard/sections/pro.php:85
+msgid "Priority Support"
+msgstr "Hỗ trợ ưu tiên"
+
+#: inc/dashboard/sections/pro.php:78
+msgid "Show related posts after posting to recommend previous posts from your blog to the visitors."
+msgstr "Hiển thị các bài đăng có liên quan sau khi đăng để đề xuất các bài đăng trước đó từ blog của bạn cho khách truy cập."
+
+#: inc/dashboard/sections/pro.php:77
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: inc/dashboard/sections/pro.php:69
+msgid "Infinite Scroll"
+msgstr "Cuộn vô hạn"
+
+#: inc/dashboard/sections/pro.php:62
+msgid "Customize colors of any element on your website."
+msgstr "Tùy chỉnh màu sắc của bất kỳ yếu tố nào trên trang web của bạn."
+
+#: inc/dashboard/sections/pro.php:61
+msgid "Custom Colors"
+msgstr "Màu sắc tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:54
+msgid "Integrated all Google Fonts with various options to customize for a beautiful typography."
+msgstr "Tích hợp tất cả Phông chữ của Google với các tùy chọn khác nhau để tùy chỉnh cho một kiểu chữ đẹp mắt."
+
+#: inc/dashboard/sections/pro.php:53
+msgid "Custom Google Fonts"
+msgstr "Phông chữ Google tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:46
+msgid "Save time setting up the theme and get exactly what you see in the demo."
+msgstr "Tiết kiệm thời gian thiết lập chủ đề và nhận được chính xác những gì bạn thấy trong bản demo."
+
+#: inc/dashboard/sections/pro.php:45
+msgid "1-Click Demo Import"
+msgstr "Nhập khẩu bản trình diễn 1 lần nhấp"
+
+#: inc/dashboard/sections/pro.php:38
+msgid "Supports custom logo in WordPress 4.5. Upload your logo has never been easier."
+msgstr "Hỗ trợ biểu tượng tùy chỉnh trong WordPress 4.5. Tải lên logo của bạn chưa bao giờ dễ dàng hơn thế."
+
+#: inc/dashboard/sections/pro.php:37
+msgid "Custom Logo"
+msgstr "Biểu tượng tùy chỉnh"
+
+#: inc/dashboard/sections/pro.php:30
+msgid "Show your most important posts in a mosaic grid on the front page."
+msgstr "Hiển thị các bài đăng quan trọng nhất của bạn trong lưới mosaic trên trang đầu."
+
+#: inc/dashboard/sections/pro.php:29
+msgid "Featured Content"
+msgstr "Nội dung nổi bật"
+
+#: inc/dashboard/sections/pro.php:22
+msgid "Works in any browsers on desktops, tablets and mobile devices and optimized for speed."
+msgstr "Hoạt động trong mọi trình duyệt trên máy tính để bàn, máy tính bảng và thiết bị di động và được tối ưu hóa cho tốc độ."
+
+#: inc/dashboard/sections/pro.php:21
+msgid "Responsive Design"
+msgstr "Thiết kế đáp ứng"
+
+#: inc/dashboard/sections/pro.php:15
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/dashboard/sections/pro.php:14
+msgid "Lite"
+msgstr "Lite"
+
+#: inc/dashboard/sections/getting-started.php:32
+msgid "Read Documentation"
+msgstr "Đọc tài liệu"
+
+#: inc/dashboard/sections/getting-started.php:30
+msgid "Need any help to setup and configure the theme? Please check our full documentation for detailed information on how to use it."
+msgstr "Bạn cần trợ giúp để thiết lập và định cấu hình chủ đề? tài liệu để biết thông tin chi tiết về cách sử dụng nó."
+
+#: inc/dashboard/sections/getting-started.php:29
+msgid "Read Full Documentation"
+msgstr "Đọc tài liệu đầy đủ"
+
+#: inc/dashboard/sections/getting-started.php:26
+msgid "Start Customize"
+msgstr "Bắt đầu tùy chỉnh"
+
+#: inc/dashboard/sections/getting-started.php:24
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Sử dụng WordPress Customizer, bạn có thể dễ dàng tùy chỉnh mọi khía cạnh của chủ đề."
+
+#: inc/dashboard/sections/getting-started.php:23
+msgid "Customize The Theme"
+msgstr "Tùy chỉnh chủ đề"
+
+#: inc/dashboard/sections/pro.php:70
+msgid "Load more posts when to reach to the end of the page. Support auto mode and manual mode."
+msgstr "Tải thêm bài đăng khi đến cuối trang. Hỗ trợ chế độ tự động và chế độ thủ công."
+
+#: template-parts/related-posts.php:23
+msgid "You might also like"
+msgstr "Bạn cũng có thể thích"
+
+#: template-parts/content-single.php:37
+msgid "Share on "
+msgstr "Chia sẻ"
+
+#: template-parts/content.php:29 template-parts/content-single.php:20
+msgid "by"
+msgstr "bởi"
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:49
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Có lẽ tìm kiếm có thể giúp bạn."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, nhưng không có gì phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác nhau."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\"> Bắt đầu tại đây </a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Không kết quả"
+
+#: template-parts/biography.php:34
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: template-parts/biography.php:31
+msgid "Instagram"
+msgstr "Instagram"
+
+#: searchform.php:8
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: searchform.php:4
+msgid "Search &hellip;"
+msgstr "Tìm kiếm & hellip;"
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr "Tìm kiếm:"
+
+#: index.php:50
+msgid "Newer posts"
+msgstr "Bài đăng mới hơn"
+
+#: index.php:49
+msgid "Older posts"
+msgstr "Bài đăng cũ hơn"
+
+#: inc/widgets/recent-posts.php:117
+msgid "All"
+msgstr "Tất cả "
+
+#: inc/widgets/recent-posts.php:114
+msgid "Select Category: "
+msgstr "Chọn loại:"
+
+#: inc/widgets/recent-posts.php:111
+msgid "Number of posts"
+msgstr "Số bài viết"
+
+#: inc/widgets/recent-posts.php:65
+msgid "Permalink to %s"
+msgstr "Liên kết tới %s"
+
+#: inc/widgets/recent-posts.php:25
+msgid "Advanced recent posts widget."
+msgstr "Tiện ích bài đăng gần đây nâng cao."
+
+#: inc/widgets/recent-posts.php:22
+msgid "EightyDays: Recent Posts"
+msgstr "Tám mươi ngày: Bài đăng gần đây"
+
+#: inc/widgets/about.php:142
+msgid "This option overrides signature text above."
+msgstr "Tùy chọn này sẽ ghi đè văn bản chữ ký ở trên."
+
+#: inc/widgets/about.php:136
+msgid "Signature Image"
+msgstr "Hình ảnh chữ ký"
+
+#: inc/widgets/about.php:132
+msgid "Signature"
+msgstr "Chữ ký"
+
+#: inc/widgets/about.php:128
+msgid "Intro"
+msgstr "Giới thiệu"
+
+#: inc/widgets/about.php:123 inc/widgets/about.php:139
+msgid "Select"
+msgstr "Lựa chọn"
+
+#: inc/widgets/about.php:120
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: inc/widgets/recent-posts.php:106 inc/widgets/about.php:116
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/widgets/about.php:48
+msgid "Insert into widget"
+msgstr "Chèn vào tiện ích"
+
+#: inc/widgets/about.php:47
+msgid "Select an image"
+msgstr "Chọn hình ảnh"
+
+#: inc/widgets/about.php:26
+msgid "EightyDays: About"
+msgstr "EightyDays: Giới "
+
+#: inc/template-tags.php:56
+msgid "Search results"
+msgstr "Kết quả tìm kiếm"
+
+#: inc/template-tags.php:36
+msgid "Leave a comment"
+msgstr "Để lại một bình luận"
+
+#: inc/social-buttons.php:166
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/social-buttons.php:163
+msgid "Send via email"
+msgstr "Gửi qua email"
+
+#: inc/social-buttons.php:150
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/social-buttons.php:145
+msgid "Submit to StumbleUpon"
+msgstr "Gửi đến StumbleUpon"
+
+#: inc/social-buttons.php:132
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/social-buttons.php:127
+msgid "Submit to Reddit"
+msgstr "Gửi tới Reddit"
+
+#: inc/social-buttons.php:114
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/social-buttons.php:108
+msgid "Pin it on Pinterest"
+msgstr "Ghim nó trên Pinterest"
+
+#: template-parts/biography.php:28 inc/social-buttons.php:94
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/social-buttons.php:88
+msgid "Share on LinkedIn"
+msgstr "Chia sẻ trên LinkedIn"
+
+#: template-parts/biography.php:22 inc/social-buttons.php:75
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/social-buttons.php:71
+msgid "Share on Google+"
+msgstr "Chia sẻ trên Google+"
+
+#: template-parts/biography.php:25 inc/social-buttons.php:59
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/social-buttons.php:54
+msgid "Tweet on Twitter"
+msgstr "Đăng trên Twitter"
+
+#: template-parts/biography.php:19 inc/social-buttons.php:41
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/social-buttons.php:37
+msgid "Share this on Facebook"
+msgstr "Chia sẻ trên Facebook"
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Plugin sau cần được cập nhật lên phiên bản mới nhất để đảm bảo khả năng tương thích tối đa với chủ đề này: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin được đề xuất sau đây hiện không hoạt động: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yêu cầu sau hiện không hoạt động: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Chủ đề này đề xuất plugin sau: %1$s."
+
+#: inc/admin/plugins.php:32
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/media.php:42
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: inc/media.php:37
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/admin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tất cả các cài đặt đã được hoàn thành"
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s được cài đặt thành công."
+
+#: inc/admin/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt bắt đầu. Quá trình này có thể mất một lúc trên một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cài đặt và kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/admin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã hoàn thành."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3509
+#: inc/admin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3509
+#: inc/admin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Hiện chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "Đã cài đặt và kích hoạt %1$s thành công."
+
+#: inc/admin/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt và kích hoạt đang bắt đầu. Quá trình này có thể mất một lúc trên một số máy chủ, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Việc cài đặt %1$s không thành công."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/admin/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/admin/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#: inc/admin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#: inc/admin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có plugin nào được kích hoạt tại thời điểm này."
+
+#: inc/admin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động."
+
+#: inc/admin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào được cập nhật tại thời điểm này."
+
+#: inc/admin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào được cài đặt tại thời điểm này."
+
+#: inc/admin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động."
+
+#: inc/admin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động."
+
+#: inc/admin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/admin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/admin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "cài đặt"
+
+#: inc/admin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Nâng cấp tin nhắn từ tác giả plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/admin/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/admin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Trạng thái"
+
+#: inc/admin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/admin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Kiểu"
+
+#: inc/admin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/admin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/admin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/admin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản có sẵn"
+
+#: inc/admin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Phiên bản yêu cầu tối thiểu:"
+
+#: inc/admin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: inc/admin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Kích hoạt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/admin/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/admin/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/admin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Cập nhật khuyến cáo"
+
+#: inc/admin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: inc/admin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Cập nhật bắt buộc không khả dụng"
+
+#: inc/admin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Hoạt động"
+
+#: inc/admin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Đã cài đặt nhưng chưa kích hoạt"
+
+#: inc/admin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/admin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Đã đóng gói trước"
+
+#: inc/admin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: inc/admin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Kho lưu trữ WordPress"
+
+#: inc/admin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Được đề xuất"
+
+#: inc/admin/class-tgm-plugin-activation.php:1121
+#: inc/admin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#. translators: %s: version number
+#: inc/admin/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/admin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Yêu cầu"
+
+#: inc/admin/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói plugin từ xa bao gồm nhiều tệp nhưng các tệp không được đóng gói trong một thư mục."
+
+#: inc/admin/class-tgm-plugin-activation.php:934
+#: inc/admin/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin theo hướng dẫn của WordPress"
+
+#: inc/admin/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa một thư mục có slug và đổi tên mong muốn không hoạt "
+
+#: inc/admin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Cần cập nhật"
+
+#: inc/admin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với chủ đề của bạn."
+
+#: inc/admin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web này để được trợ giúp."
+
+#: inc/admin/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều plugin được yêu cầu hoặc được đề xuất để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/admin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Loại bỏ thông báo này"
+
+#. translators: 1: dashboard link.
+#: inc/admin/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin chưa được kích hoạt. Cần có phiên bản %s cao hơn cho chủ đề này. Vui lòng cập nhật plugin."
+
+#. translators: 1: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động. Plugin %1$s đã hoạt động"
+
+#: inc/admin/class-tgm-plugin-activation.php:388
+#: inc/admin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin sau đã được kích hoạt thành công:"
+
+#: inc/admin/class-tgm-plugin-activation.php:387
+#: inc/admin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Phần hỗ trợ thêm đã được kích hoạt thành công."
+
+#: inc/admin/class-tgm-plugin-activation.php:386
+#: inc/admin/class-tgm-plugin-activation.php:827
+#: inc/admin/class-tgm-plugin-activation.php:2533
+#: inc/admin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Quay lại Trang tổng quan"
+
+#: inc/admin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Quay lại Trình cài đặt plugin bắt buộc"
+
+#: inc/admin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/admin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: inc/admin/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: inc/admin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Có gì đó không đúng với API mở rộng."
+
+#. translators: %s: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/admin/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt Plugin: %s"
+
+#: inc/dashboard/class-eightydays-lite-dashboard.php:135
+#: inc/admin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt plugin"
+
+#: inc/admin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Bắt buộc cài đặt Plugins"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Chuyển đến nội dung"
+
+#: functions.php:118
+msgid "Footer"
+msgstr "Chân trang"
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:63
+msgid "Top Bar Menu"
+msgstr "Menu thanh trên cùng"
+
+#: footer.php:24
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr "thực đơn chính"
+
+#: footer.php:23
+msgid "Copyright &copy; %s %s. All rights reserved.<br>Proudly powered by %s. Theme %s by GretaThemes."
+msgstr "Bản quyền &copy; %s %s. Mọi quyền được bảo lưu. <br> Tự hào được cung cấp bởi %s. Chủ đề %s bởi GretaThemes."
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr "Các ý kiến đóng lại."
+
+#: comments.php:42
+msgid "Newer comments"
+msgstr "Nhận xét mới hơn"
+
+#: comments.php:41
+msgid "Older comments"
+msgstr "Nhận xét cũ hơn"
+
+#: comments.php:26 inc/template-tags.php:36
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: comments.php:26 inc/template-tags.php:36
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: comments.php:26
+msgid "No Comments"
+msgstr "Miễn bình luận"
+
+#: 404.php:13
+msgid "Back to home"
+msgstr "Trở về nhà"
+
+#: 404.php:12
+msgid "Oops! Looks like that page isn't here."
+msgstr "Rất tiếc! Có vẻ như trang đó không có ở đây."
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#. translators: 1: plugin name(s).
+#: inc/admin/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Chủ đề này yêu cầu plugin sau: %1$s"
+
+#. Author URI of the theme
+msgid "http://gretathemes.com"
+msgstr "http://gretathemes.com"
+
+#. Author of the theme
+#: inc/dashboard/sections/welcome.php:27
+msgid "GretaThemes"
+msgstr "GretaThemes"
+
+#. Theme URI of the theme
+msgid "http://gretathemes.com/wordpress-themes/eightydays/"
+msgstr "http://gretathemes.com/wordpress-themes/eightydays/"
